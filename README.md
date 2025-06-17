@@ -1,4 +1,4 @@
-Yo, I'm Doge, a programmer who hasn't quite found his special sauce.
+Yo, I'm a programmer who hasn't found "it"
 
 Hit me up with cool ideas!
 
