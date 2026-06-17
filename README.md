@@ -1,5 +1,4 @@
-Yo, I'm a programmer who hasn't found "it"
-
+Yo, whats popping
 Hit me up with cool ideas!
 
 <!---
