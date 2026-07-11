@@ -1,5 +1,5 @@
-Yo, whats popping
-Hit me up with cool ideas!
+Yo, whats up
+hit me up with sick ideas
 
 <!---
 DogeParker/DogeParker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
