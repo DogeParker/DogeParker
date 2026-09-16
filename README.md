@@ -1,4 +1,4 @@
-Yo, whats up
+Hey,
 I like Java, Webdev and Python
 
 <!---
