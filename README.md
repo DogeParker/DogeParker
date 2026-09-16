@@ -1,5 +1,5 @@
 Yo, whats up
-hit me up with sick ideas
+I like Java, Webdev and Python
 
 <!---
 DogeParker/DogeParker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
